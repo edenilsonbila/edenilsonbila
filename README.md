@@ -1,5 +1,5 @@
 <!-- Banner chamativo com ou sem gif -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D6EFD&height=200&section=header&text=Olá,%20eu%20sou%20o%20Edenilson%Bila!&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D6EFD&height=200&section=header&text=Olá,%20eu%20sou%20o%20Edenilson!&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Banner"/>
 
 ## 👨‍💻 Sobre mim
 
@@ -43,7 +43,7 @@ Sou **Desenvolvedor de Software** com foco em **.NET**, apaixonado por tecnologi
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=edenilsonbila&show_icons=true&theme=default&count_private=true&hide=issues&hide_rank=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edenilsonbilao&layout=compact&langs_count=8&theme=default"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edenilsonbila&layout=compact&langs_count=8&theme=default"/>
 </div>
 
 ---
