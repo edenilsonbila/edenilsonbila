@@ -42,9 +42,20 @@ Sou **Desenvolvedor de Software** com foco em **.NET**, apaixonado por tecnologi
 ## 📈 Estatísticas
 
 <div align="center">
+
+  <!-- Stats tradicionais -->
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=edenilsonbila&show_icons=true&theme=default&count_private=true&hide=issues&hide_rank=true"/>
+  
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edenilsonbila&layout=compact&langs_count=8&theme=default"/>
+
+  <!-- Gráfico alternativo de commits reais -->
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edenilsonbila&bg_color=ffffff&color=0d6efd&line=0d6efd&point=1b1f23&area=true&hide_border=true" alt="Gráfico de atividade">
+
 </div>
+
+> 🔐 A maior parte das minhas contribuições está em repositórios privados (como o ERP que desenvolvo há mais de 10 anos), por isso os números públicos podem não refletir toda minha atividade real no dia a dia.
+
 
 ---
 
